@@ -1,0 +1,20 @@
+{
+    "education":[
+        {
+            "title": "March 2023 - August 2023",
+            "cardTitle": "Web Developer, Computer Science",
+            "cardSubtitle":"University of Toronto, Toronto",
+            "icon" : {
+                "src": "images/education/UT.png"
+            }
+        },
+        {
+            "title": "September 2013 - August 2019",
+            "cardTitle": "System Engineering, Computer Science",
+            "cardSubtitle":"University of Cuecna, Cuenca",
+            "icon" : {
+                "src": "images/education/UC.png"
+            }
+        }
+    ]
+}

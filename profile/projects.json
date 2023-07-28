@@ -1,0 +1,68 @@
+{
+    "projects" : [
+        {
+            "image" : "images/projects/ex1.jpg",
+            "title": "Example 1",
+            "bodyText": "Description for example 1",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/boro101094"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://github.com/boro101094"
+                }
+            ],
+            "tags" : [
+                "React",
+                "Portfolio",
+                "JavaScript"
+            ]
+        },
+        {
+            "image" : "images/projects/ex1.jpg",
+            "title": "Example 2",
+            "bodyText": "Description for example 2",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/boro101094"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://github.com/boro101094"
+                }
+            ],
+            "tags" : [
+                "Python",
+                "Django",
+                "BootStrap",
+                "SendGrid",
+                "Heroku",
+                "Gunicorn",
+                "VIT"
+            ]
+        },
+        {
+            "image" : "images/projects/ex1.jpg",
+            "title": "Example 3",
+            "bodyText": "Description for example 3",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/boro101094"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://github.com/boro101094"
+                }
+            ],
+            "tags" : [
+                "BootStrap",
+                "Heroku"
+            ]
+        }
+        
+    ]
+}

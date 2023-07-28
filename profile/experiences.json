@@ -1,0 +1,44 @@
+{
+    "experiences": [
+        {
+            "title": "Integration Engineer",
+            "workType": "Full-time",
+            "workDescription": [
+                "Certification and validation of Integration for a new commerce.",
+                "Technical support and integrations of kushki payment platform in app or web",
+                "Tests and validation of new products offered by kushki"
+            ],
+            "dateText": "07/2020 – 06/2022"
+        },
+        {
+            "title": "Full Stack Web Developer",
+            "workType": "Full-time",
+            "workDescription": [
+                "Integration between ERP SAP with CMS Prestashop through Microservices.",
+                "Microservices. Analysis, design, development, maintenance of e-commerce and web plataforms.",
+                "Supervision and management of software projects, End user training.",
+                "Technical Support to end users.",
+                "User management for POS and IWS systems."
+            ],
+            "dateText": "07/2020 – 06/2022"
+        },
+        {
+            "title": "Junior Java Developer",
+            "workType": "Full-time",
+            "workDescription": [
+                "Maintenance, design and development of the billing and control system for gas stations.",
+                "Technical Support to end users.",
+                "Control and supervision of internal projects."
+            ],
+            "dateText": "09/2019 – 06/2020"
+        },
+        {
+            "title": "Academic Researcher",
+            "workType": "Full-time",
+            "workDescription": [
+                "Collaboration in research project \"Aplicación de técnicas de desarrollo ágil de software para mejorar la productividad del proceso de despliegue incremental de servicios cloud en plataformas híbridas\"."
+            ],
+            "dateText": "04/2018 – 07/2018"
+        }
+    ]
+}
